@@ -1,5 +1,5 @@
 // Code ClickityClick Component Here
-// src/components/ClickityClick.js
+
 import React from 'react';
  
 class ClickityClick extends React.Component {
